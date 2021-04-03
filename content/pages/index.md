@@ -62,6 +62,7 @@ sections:
 
       [**Order flowers delivery in USA**](https://www.1800flowersinc.com/)
     type: section_content
+    image: images/art.svg
 seo:
   title: Best Flower Delivery Companies Directory | Amazing Florist
   description: >-
