@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Order Flowers Delivery
+    title: Florists & Flowers Delivery Online
     subtitle: "### \_from the Best Local Florists\n"
     image: images/avatar.png
     image_alt: Author avatar
