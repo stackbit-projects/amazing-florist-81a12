@@ -70,7 +70,7 @@ sections:
 
       [**Order flowers delivery in Hong Kong**](https://www.bydeau.com/)
     type: section_content
-    image: images/art.svg
+    image: images/Bydeau-vase-arrangements.jpg
 seo:
   title: Best Flower Delivery Companies Directory | Amazing Florist
   description: >-
