@@ -32,17 +32,18 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## USA: 1-800-Flowers
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      What we like most: really huge selection of flower bouquets and
+      arrangements. 1-800-Flowers is one of the earliest players in the online
+      flower business and they use the network of local florists to provide the
+      freshest flowers.Specialisation: fresh flower bouquets, corporate gifts,
+      flower arrangements for funerals, weddings and large special events.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      [**Order flowers delivery in USA**](https://www.1800flowersinc.com/)
     type: section_content
     image: images/art.svg
 seo:
