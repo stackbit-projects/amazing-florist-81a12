@@ -62,7 +62,9 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
   title: Best Flowers Delivery Websites Directory | Amazing Florist
-  description: The preview of the Vanilla theme
+  description: >-
+    Order fresh flowers online from the best florists, flower shops and flower
+    flowers delivery services in your country. 
   extra:
     - name: 'og:type'
       value: website
