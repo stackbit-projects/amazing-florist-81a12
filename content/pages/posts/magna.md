@@ -2,8 +2,9 @@
 title: 'USA: 1-800-Flowers'
 excerpt: >-
   Why we like them: really huge selection of flower bouquets and arrangements.
-  1-800-Flowers is one of the earliest players in the online flower business.
-  1-800-Flowers specializes in fresh flower bouquets, corporate gifts, flower
+  1-800-Flowers is one of the earliest players in the online flower business and
+  they use the network of local florists to provide the freshest
+  flowers.Specialisation: fresh flower bouquets, corporate gifts, flower
   arrangements for funerals, weddings and large special events.
 date: '2021-04-03'
 thumb_img_path: images/art.svg
