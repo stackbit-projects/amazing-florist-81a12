@@ -28,7 +28,7 @@ sections:
       flower arrangements for funerals, weddings and large special events.
 
 
-      [Order flowers delivery online](https://www.1800flowersinc.com/)
+      [**Order flowers delivery online**](https://www.1800flowersinc.com/)
   - title: Recent Posts
     section_id: posts
     type: section_posts
