@@ -26,6 +26,9 @@ sections:
       flower business and they use the network of local florists to provide the
       freshest flowers.Specialisation: fresh flower bouquets, corporate gifts,
       flower arrangements for funerals, weddings and large special events.
+
+
+      [Order flowers delivery online](https://www.1800flowersinc.com/)
   - title: Recent Posts
     section_id: posts
     type: section_posts
