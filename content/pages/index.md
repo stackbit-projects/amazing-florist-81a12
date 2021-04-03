@@ -60,12 +60,17 @@ sections:
       ## Hong Kong: Bydeau
 
 
-      What we like most: beautiful vase flower arrangements and recyclable
-      packaging. Bydeau catalogues is very diversified, but we were most
-      impressed by their attention to details - from flower arrangements to
-      unique wrapping options. Monthly and yearly subscriptions are available,
-      as well as same day flower delivery service across the island (if booked
-      before 4pm). Specialisation: vase flower arrangements.
+      **What we like most:** beautiful vase flower arrangements and recyclable
+      packaging.
+
+
+      Bydeau catalogues is very diversified, but we were most impressed by their
+      attention to details - from flower arrangements to unique wrapping
+      options. Monthly and yearly subscriptions are available, as well as same
+      day flower delivery service across the island (if booked before 4pm).
+
+
+      **Specialisation:** vase flower arrangements.
 
 
       [**Order flowers delivery in Hong Kong**](https://www.bydeau.com/)
