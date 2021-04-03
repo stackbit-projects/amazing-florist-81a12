@@ -29,11 +29,6 @@ sections:
 
 
       [**Order flowers delivery in USA**](https://www.1800flowersinc.com/)
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-    has_more_link: true
-    more_link_text: Order flowers delivery online
 seo:
   title: Best Flower Delivery Companies Directory | Amazing Florist
   description: >-
