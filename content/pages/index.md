@@ -105,10 +105,6 @@ seo:
         Order fresh flowers online from the best florists, flower shops and
         flower flowers delivery services in your country. 
       keyName: property
-    - name: 'og:image'
-      value: /images/royal-mahogany.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
