@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Order Flowers Delivery from your Best Local Florist
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Order Flowers Delivery from your Best Local Florist
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
