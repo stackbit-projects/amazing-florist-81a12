@@ -11,26 +11,29 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+    content: >
+      Sending fresh roses, birthday flowers, anniversary flowers, thank you
+      flowers online is the best way to show how much you care. The flower
+      bouquets are sent separately or as addition to other gifts - in either
+      case the recipient will be happy to get a beautiful flower arrangements
+      hand-delivered to their doorsteps.
+
 
       ### This is an H3. Use it for subheads and subsections.
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
 
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+      Recently, flower delivery has become especially common. There are several
+      hundred delivery services worldwide, among which we have carefully
+      selected the best.
+
+
+      They take into account all the wishes of the customer, bring the most
+      beautiful flower arrangement at the agreed time and make it possible to
+      save your time on shopping trips. Experienced florists create unique
+      bouquets of a wide variety of flowers, including exotic ones. When
+      ordering with online florists, you can select related products (gifts,
+      accessories, postcards), etc. Our rating includes the best flower delivery
+      services in different countries according to buyers' opinion.
   - title: Recent Posts
     section_id: posts
     type: section_posts
