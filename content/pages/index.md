@@ -70,7 +70,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Best Flowers Delivery Websites Directory | Amazing Florist
+      value: Best Flower Delivery Companies Directory | Amazing Florist
       keyName: property
     - name: 'og:description'
       value: >-
