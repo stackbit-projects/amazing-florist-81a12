@@ -28,7 +28,7 @@ sections:
       flower arrangements for funerals, weddings and large special events.
 
 
-      [**Order flowers delivery in USA**](https://www.1800flowersinc.com/)
+      [**Order flowers delivery in USA**](https://www.1800flowers.com/)
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: flower-and-kisses-lily-pink-rose
