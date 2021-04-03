@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Florists & Flowers Delivery Online
+    title: Best Florists & Flowers Delivery
     subtitle: |
       ### Order bouquets & flowers delivery from the best local florists.
     image: images/avatar.png
