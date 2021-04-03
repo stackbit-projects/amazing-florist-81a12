@@ -116,5 +116,9 @@ seo:
     - name: 'twitter:image'
       value: /images/green-whale.jpg
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/festive-eggplant.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
