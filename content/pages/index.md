@@ -61,7 +61,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
-  title: Stackbit Vanilla Theme
+  title: Best Flowers Delivery Websites Directory | Amazing Florist
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
