@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Florists & Flowers Delivery Online
-    subtitle: "### \_from the Best Local Florists\n"
+    subtitle: |
+      ### Order Flowers Delivery from the Best Local Florists.
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
