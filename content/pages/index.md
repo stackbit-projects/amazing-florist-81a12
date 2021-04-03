@@ -86,7 +86,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Vanilla Theme
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
+      value: >-
+        Order fresh flowers online from the best florists, flower shops and
+        flower flowers delivery services in your country. 
     - name: 'twitter:image'
       value: images/vanilla-preview.png
       relativeUrl: true
