@@ -11,29 +11,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >
-      Sending fresh roses, birthday flowers, anniversary flowers, thank you
-      flowers online is the best way to show how much you care. The flower
-      bouquets are sent separately or as addition to other gifts - in either
-      case the recipient will be happy to get a beautiful flower arrangements
-      hand-delivered to their doorsteps.
-
-
-      ### This is an H3. Use it for subheads and subsections.
-
-
-      Recently, flower delivery has become especially common. There are several
-      hundred delivery services worldwide, among which we have carefully
-      selected the best.
-
-
-      They take into account all the wishes of the customer, bring the most
-      beautiful flower arrangement at the agreed time and make it possible to
-      save your time on shopping trips. Experienced florists create unique
-      bouquets of a wide variety of flowers, including exotic ones. When
-      ordering with online florists, you can select related products (gifts,
-      accessories, postcards), etc. Our rating includes the best flower delivery
-      services in different countries according to buyers' opinion.
+    content: "Sending fresh roses, birthday flowers, anniversary flowers, thank you flowers online became quite common in recent days. Last minute flower deliveries are not a problem anymore. With a few clicks on your\_computer, you can send a gorgeous flowers bouquet to your friend or loved one and have it delivered to their door on the same day. The only remaining problem is the abundance of flower delivery sites to choose from.\_There are several thousand delivery services worldwide, among which we have carefully selected the best.\n\n### Selecting the best flower delivery websites\n\nWhile choosing the best florists and flower delivery services we consider how they take into account all the wishes of the customer, whether they are able to bring the most beautiful flower arrangement at the agreed time and how they make it possible to save your time on shopping trips with convenient notifications. We select only experienced florists, creating unique bouquets of a wide variety of flowers, including exotic ones. When ordering with those online florists, you can select related products (gifts, accessories, postcards), etc. Our rating includes the best flower delivery services in different countries based on our research and independent buyers' reviews.\n"
   - title: Recent Posts
     section_id: posts
     type: section_posts
