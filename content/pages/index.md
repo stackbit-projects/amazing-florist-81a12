@@ -15,7 +15,7 @@ sections:
   - title: A Cat
     section_id: cat
     type: section_content
-    image: images/art.svg
+    image: images/1800-flowers.jpg
     image_alt: Geometric pattern
     content: >
       ## USA: 1-800-Flowers
