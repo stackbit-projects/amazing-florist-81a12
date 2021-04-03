@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Best flower delivery companies online
     subtitle: |
-      ### Order bouquets & flowers delivery from the best local florists.
+      ### Order bouquets & flowers delivery from the best local florists
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
