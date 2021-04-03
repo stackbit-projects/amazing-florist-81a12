@@ -39,17 +39,18 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## USA: 1-800-Flowers
+      ## Mauritius: Dodomarket
 
 
-      What we like most: really huge selection of flower bouquets and
-      arrangements. 1-800-Flowers is one of the earliest players in the online
-      flower business and they use the network of local florists to provide the
-      freshest flowers.Specialisation: fresh flower bouquets, corporate gifts,
-      flower arrangements for funerals, weddings and large special events.
+      What we like most: beautiful flower bouquets and very affordable prices.
+      Dodomarket has an incredible selection of elegant roses, gorgeous flower
+      bouquets and arrangements. You can also add to your present an original
+      artworks or handmade gifts. Same day flower delivery service runs 7 days a
+      week. Specialisation: fresh flower bouquets, birthday flowers, anniversary
+      flowers, thank you flowers, flower baskets and arrangements.
 
 
-      [**Order flowers delivery in USA**](https://www.1800flowersinc.com/)
+      [**Order flowers delivery in Mauritius**](https://dodomarket.mu/)
     type: section_content
     image: images/art.svg
 seo:
