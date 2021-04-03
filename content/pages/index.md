@@ -1,5 +1,5 @@
 ---
-title: Amazing Florst
+title: Amazing Florist
 sections:
   - section_id: hero
     type: section_hero
