@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Order Flowers Delivery from your Best Local Florist
+    title: Order Flowers Delivery
     subtitle: |
       ### Order Flowers Delivery from your Best Local Florist
     image: images/avatar.png
