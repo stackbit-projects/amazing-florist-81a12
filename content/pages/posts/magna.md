@@ -1,12 +1,12 @@
 ---
 title: 'USA: 1-800-Flowers'
 excerpt: >-
-  Why we like them: 1-800-Flowers has been in the business of handcrafting
-  flower arrangements, gift baskets, gourmet food items, keepsakes, household
-  plants and home goods since the early 1980s. It was the first company to use a
-  toll-free number for flower orders. 1-800-Flowers specializes in fresh flower
-  bouquets, corporate gifts, flower arrangements for funerals, weddings and
-  large special events.
+  Why we like them: really huge selection of flower bouquets and arrangements.
+  1-800-Flowers has been in the business of handcrafting flower arrangements,
+  gift baskets, gourmet food items, keepsakes, household plants and home goods
+  since the early 1980s. It was the first company to use a toll-free number for
+  flower orders. 1-800-Flowers specializes in fresh flower bouquets, corporate
+  gifts, flower arrangements for funerals, weddings and large special events.
 date: '2021-04-03'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
