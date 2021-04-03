@@ -61,7 +61,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
-  title: Best Flowers Delivery Websites Directory | Amazing Florist
+  title: Best Flower Delivery Companies Directory | Amazing Florist
   description: >-
     Order fresh flowers online from the best florists, flower shops and flower
     flowers delivery services in your country. 
