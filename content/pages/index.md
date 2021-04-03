@@ -106,7 +106,7 @@ seo:
         flower flowers delivery services in your country. 
       keyName: property
     - name: 'og:image'
-      value: /images/modern-zucchini.jpg
+      value: /images/royal-mahogany.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
