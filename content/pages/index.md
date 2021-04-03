@@ -32,18 +32,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
-      ## USA: 1-800-Flowers
-
-
-      What we like most: really huge selection of flower bouquets and
-      arrangements. 1-800-Flowers is one of the earliest players in the online
-      flower business and they use the network of local florists to provide the
-      freshest flowers.Specialisation: fresh flower bouquets, corporate gifts,
-      flower arrangements for funerals, weddings and large special events.
-
-
-      [**Order flowers delivery in USA**](https://www.1800flowersinc.com/)
+    content: "## Flowers and Kisses\n\nWhat we like most: \_classic bouquets at a reasonable price. With Flowers and Kisses customers are not limited to the catalog (which is large enough) - you can also make special requests. Another attractive feature - free same day delivery to any location on the island. Specialisation: fresh flower bouquets, condolence flowers, envelope flowers, flower baskets.\n\n[**Order flowers delivery in Singapore**](https://www.flowersandkisses.com.sg/)\n"
     type: section_content
     image: images/art.svg
   - title: lorem-ipsum
