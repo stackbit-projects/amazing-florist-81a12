@@ -12,11 +12,6 @@ sections:
     section_id: intro
     type: section_content
     content: "Sending fresh roses, birthday flowers, anniversary flowers, thank you flowers online became quite common in recent days. Last minute flower deliveries are not a problem anymore. With a few clicks on your\_computer, you can send a gorgeous flowers bouquet to your friend or loved one and have it delivered to their door on the same day. The only remaining problem is the abundance of flower delivery sites to choose from.\_There are several thousand delivery services worldwide, among which we have carefully selected the best.\n\n### Selecting the best flower delivery websites\n\nWhile choosing the best florists and flower delivery services we consider how they take into account all the wishes of the customer, whether they are able to bring the most beautiful flower arrangement at the agreed time and how they make it possible to save your time on shopping trips with convenient notifications. We select only experienced florists, creating unique bouquets of a wide variety of flowers, including exotic ones. When ordering with those online florists, you can select related products (gifts, accessories, postcards), etc. Our rating includes the best flower delivery services in different countries based on our research and independent buyers' reviews.\n"
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-    has_more_link: true
-    more_link_text: Order flowers delivery online
   - title: A Cat
     section_id: cat
     type: section_content
@@ -31,6 +26,11 @@ sections:
       flower business and they use the network of local florists to provide the
       freshest flowers.Specialisation: fresh flower bouquets, corporate gifts,
       flower arrangements for funerals, weddings and large special events.
+  - title: Recent Posts
+    section_id: posts
+    type: section_posts
+    has_more_link: true
+    more_link_text: Order flowers delivery online
 seo:
   title: Best Flower Delivery Companies Directory | Amazing Florist
   description: >-
