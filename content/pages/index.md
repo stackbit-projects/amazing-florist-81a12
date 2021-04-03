@@ -16,7 +16,7 @@ sections:
     section_id: cat
     type: section_content
     image: images/1800-flowers.jpg
-    image_alt: '1'
+    image_alt: 1-800-flowers
     content: >
       ## USA: 1-800-Flowers
 
