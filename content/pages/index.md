@@ -42,11 +42,17 @@ sections:
       ## Mauritius: Dodomarket
 
 
-      What we like most: beautiful flower bouquets and very affordable prices.
+      **What we like most:** beautiful flower bouquets and very affordable
+      prices.
+
+
       Dodomarket has an incredible selection of elegant roses, gorgeous flower
       bouquets and arrangements. You can also add to your present an original
       artworks or handmade gifts. Same day flower delivery service runs 7 days a
-      week. Specialisation: fresh flower bouquets, birthday flowers, anniversary
+      week. 
+
+
+      **Specialisation:** fresh flower bouquets, birthday flowers, anniversary
       flowers, thank you flowers, flower baskets and arrangements.
 
 
