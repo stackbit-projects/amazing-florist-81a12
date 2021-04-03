@@ -57,19 +57,18 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## Hong Kong: Agnès B Fleuriste
+      ## Hong Kong: Bydeau
 
 
-      What we like most: beautiful flower bouquets and very affordable prices.
-      Dodomarket has an incredible selection of elegant roses, gorgeous flower
-      bouquets and arrangements. You can also add to your present an original
-      artworks or handmade gifts. Same day flower delivery service runs 7 days a
-      week. Specialisation: fresh flower bouquets, birthday flowers, anniversary
-      flowers, thank you flowers, flower baskets and arrangements.
+      What we like most: beautiful vase flower arrangements and recyclable
+      packaging. Bydeau catalogues is very diversified, but we were most
+      impressed by their attention to details - from flower arrangements to
+      unique wrapping options. Monthly and yearly subscriptions are available,
+      as well as same day flower delivery service across the island (if booked
+      before 4pm). Specialisation: vase flower arrangements.
 
 
-      [**Order flowers delivery in Hong
-      Kong**](https://www.agnesb-happyb.com.hk)
+      [**Order flowers delivery in Hong Kong**](https://www.bydeau.com/)
     type: section_content
     image: images/art.svg
 seo:
