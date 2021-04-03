@@ -118,7 +118,7 @@ seo:
         Order fresh flowers online from the best florists, flower shops and
         flower flowers delivery services in your country. 
     - name: 'twitter:image'
-      value: images/vanilla-preview.png
+      value: /images/green-whale.jpg
       relativeUrl: true
 layout: advanced
 ---
