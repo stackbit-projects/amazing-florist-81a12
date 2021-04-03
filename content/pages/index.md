@@ -3,7 +3,7 @@ title: Amazing Florist
 sections:
   - section_id: hero
     type: section_hero
-    title: Best flower delivery companies online
+    title: Best flower delivery companies
     subtitle: |
       ### Order bouquets & flowers delivery from the best local florists
     image: images/Amazing-Florist-Flowers-Delivery-Directory-Hero_Logo.jpg
