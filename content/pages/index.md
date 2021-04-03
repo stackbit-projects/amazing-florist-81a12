@@ -70,7 +70,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Vanilla Theme
+      value: Best Flowers Delivery Websites Directory | Amazing Florist
       keyName: property
     - name: 'og:description'
       value: The preview of the Vanilla theme
