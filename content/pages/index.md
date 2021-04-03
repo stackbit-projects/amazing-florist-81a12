@@ -21,11 +21,17 @@ sections:
       ## USA: 1-800-Flowers
 
 
-      What we like most: really huge selection of flower bouquets and
-      arrangements. 1-800-Flowers is one of the earliest players in the online
-      flower business and they use the network of local florists to provide the
-      freshest flowers.Specialisation: fresh flower bouquets, corporate gifts,
-      flower arrangements for funerals, weddings and large special events.
+      **What we like most:** really huge selection of flower bouquets and
+      arrangements.
+
+
+      1-800-Flowers is one of the earliest players in the online flower business
+      and they use the network of local florists to provide the freshest
+      flowers.
+
+
+      **Specialisation:** fresh flower bouquets, corporate gifts, flower
+      arrangements for funerals, weddings and large special events.
 
 
       [**Order flowers delivery in USA**](https://www.1800flowers.com/)
