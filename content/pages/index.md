@@ -52,7 +52,7 @@ sections:
 
       [**Order flowers delivery in Mauritius**](https://dodomarket.mu/)
     type: section_content
-    image: images/art.svg
+    image: images/DodoMarket-Flowers-Delivery-Roses-Admiration-Image.jpg
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
