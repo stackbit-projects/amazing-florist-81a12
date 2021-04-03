@@ -37,7 +37,7 @@ sections:
     image: images/art.svg
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+    image_alt: DodoMarket-Flowers-Delivery-Roses-Admiration
     content: >
       ## Mauritius: Dodomarket
 
