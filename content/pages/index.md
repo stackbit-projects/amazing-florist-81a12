@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Florists & Flowers Delivery Online
     subtitle: |
-      ### Order Flowers Delivery from the Best Local Florists.
+      ### Order flowers delivery from the best local florists.
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
