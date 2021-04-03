@@ -16,7 +16,7 @@ sections:
     section_id: cat
     type: section_content
     image: images/1800-flowers.jpg
-    image_alt: Geometric pattern
+    image_alt: '1'
     content: >
       ## USA: 1-800-Flowers
 
