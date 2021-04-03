@@ -57,7 +57,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## Mauritius: Dodomarket
+      Hong Kong: Agnès B Fleuriste
 
 
       What we like most: beautiful flower bouquets and very affordable prices.
@@ -68,7 +68,8 @@ sections:
       flowers, thank you flowers, flower baskets and arrangements.
 
 
-      [**Order flowers delivery in Mauritius**](https://dodomarket.mu/)
+      [**Order flowers delivery in Hong
+      Kong**](https://www.agnesb-happyb.com.hk)
     type: section_content
     image: images/art.svg
 seo:
