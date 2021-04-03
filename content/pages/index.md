@@ -84,7 +84,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Best Flowers Delivery Websites Directory | Amazing Florist
+      value: Best Flower Delivery Companies Directory | Amazing Florist
     - name: 'twitter:description'
       value: >-
         Order fresh flowers online from the best florists, flower shops and
