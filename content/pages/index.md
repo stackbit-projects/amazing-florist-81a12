@@ -31,7 +31,7 @@ sections:
       [**Order flowers delivery in USA**](https://www.1800flowersinc.com/)
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+    image_alt: flower-and-kisses-lily-pink-rose
     content: "## Singapore: Flowers and Kisses\n\n**What we like most:** \_classic bouquets at a reasonable price.\n\nWith Flowers and Kisses customers are not limited to the catalog (which is large enough) - you can also make special requests. Another attractive feature - free same day delivery to any location on the island. \n\n**Specialisation:** fresh flower bouquets, condolence flowers, envelope flowers, flower baskets.\n\n[**Order flowers delivery in Singapore**](https://www.flowersandkisses.com.sg/)\n"
     type: section_content
     image: images/flower-and-kisses-lily-pink-rose.jpg
