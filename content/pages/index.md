@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Amazing Florst
 sections:
   - section_id: hero
     type: section_hero
