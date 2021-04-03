@@ -1,5 +1,5 @@
 ---
-excerpt: 'What we like most: classic bouquets at a reasonable price.'
+excerpt: "What we like most: classic bouquets at a reasonable price. With\_Flowers and Kisses customers are limited by the online catalog - you can make special requests."
 date: '2016-08-28'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
