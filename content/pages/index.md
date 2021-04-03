@@ -70,6 +70,7 @@ sections:
 
       [**Order flowers delivery in Mauritius**](https://dodomarket.mu/)
     type: section_content
+    image: images/art.svg
 seo:
   title: Best Flower Delivery Companies Directory | Amazing Florist
   description: >-
